@@ -24,7 +24,7 @@ else{
     console.log("Fail");
 }
 
-//Task 2-  Switch Case - Day of the week
+//Task 3-  Switch Case - Day of the week
 let dayNumber=6
 switch (dayNumber){
     case 1: console.log("Monday");
